@@ -1,0 +1,2 @@
+# John McCarthy's key statement about AI
+“The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it.”
